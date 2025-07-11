@@ -1,24 +1,3 @@
-header,
-article {
-  width: min(740px, 90%);
-  margin: 20px auto 0;
-}
-
-header {
-  position: sticky;
-  top: 0;
-  padding: 20px 0;
-  background: #fff;
-}
-
-article p {
-  margin: 10px 0;
-}
-
-article img {
-  max-width: 100%;
-}
-
 .popzy__backdrop {
   position: fixed;
   inset: 0;
